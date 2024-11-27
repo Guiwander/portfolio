@@ -47,4 +47,4 @@ Confira alguns dos meus projetos no GitHub:
 
 ### 📫 **Contato**
 - Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [seu-perfil-linkedin]([https://www.linkedin.com/in/guiwander/)
+- LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/guiwander/)
